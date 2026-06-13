@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/nuestro-ultimo-baile-juntos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Nuestro último baile juntos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/nuestro-ultimo-baile-juntos/) |
+| **Get License** | [Secure Licensing Rights for Nuestro último baile juntos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/nuestro-ultimo-baile-juntos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Bebé, la noche entera te he estado mirando
+> Sé que tú también la tensión la estás notando
+> Acércate un poco, que el DJ la está soltando
+> Este es nuestro último baile y te sigo deseando
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)

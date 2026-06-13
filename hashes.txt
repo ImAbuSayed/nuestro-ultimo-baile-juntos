@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Nuestro último baile juntos
+
+This log tracks the cryptographic history and versioning for the song **Nuestro último baile juntos** (nuestro-ultimo-baile-juntos).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-13T18:21:16.882533 | `v1` | `5248d223e4e4e63fc6e4265d7c567f63a5af0766a176ec6f6e35553357a57f96` | `926f28505f339d8e81e23b3076516b3963feec951ea85ec0298d3f98cbce6725` | `2026-06-13_nuestro-ultimo-baile-juntos-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

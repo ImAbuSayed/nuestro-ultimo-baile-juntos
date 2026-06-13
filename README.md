@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/nuestro-ultimo-baile-juntos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Nuestro último baile juntos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/nuestro-ultimo-baile-juntos/) |
+| **Get License** | [Request Licensing for Nuestro último baile juntos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/nuestro-ultimo-baile-juntos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `5248d223e4e4e63fc6e4265d7c567f63a5af0766a176ec6f6e35553357a57f96` |
 | **Timestamp** | June 13, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
